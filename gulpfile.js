@@ -51,3 +51,4 @@ gulp.task('serve', function() {
     });
 });
 //add new
+function TestCode(){}
