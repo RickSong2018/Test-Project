@@ -1,4 +1,4 @@
-/**
+﻿/**
  * gulp的主文件，用于注册任务
  * @Author: iceStone
  * @Date:   2016-01-26 17:07:26
@@ -50,3 +50,4 @@ gulp.task('serve', function() {
         }
     });
 });
+//add new
